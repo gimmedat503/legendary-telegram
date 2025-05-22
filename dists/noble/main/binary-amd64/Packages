@@ -1,0 +1,17 @@
+Package: cri-dockerd
+Version: 0:0.3.17~3-0~ubuntu-jammy
+Architecture: amd64
+Maintainer: Mirantis <support@mirantis.com>
+Installed-Size: 49892
+Depends: containerd (>= 1.2.2-3) | containerd.io (>= 1.2.2-3) | moby-containerd (>= 1.2.2), iptables, libseccomp2 (>= 2.3.0), libc6 (>= 2.34)
+Recommends: aufs-tools, ca-certificates, cgroupfs-mount | cgroup-lite, git, pigz, xz-utils, libltdl7, apparmor
+Homepage: https://www.mirantis.com
+Priority: 0
+Section: utils
+Filename: pool/main/c/cri-dockerd/cri-dockerd_0.3.17~3-0~ubuntu-jammy_amd64.deb
+Size: 11764058
+SHA256: daaabe9f9fbcd8a6d2830e73a8a20be355dd54db90ebb89dbdc4a8a5026f076c
+SHA1: eb46c71e2645b67d63fb6c7508560f857642d41f
+MD5sum: 39fd1c22fc16f20df6c9796e80ac4e77
+Description: cri-dockerd is a lightweight implementation of the CRI specification which talks to docker.
+

@@ -1,0 +1,6 @@
+Archive: noble
+Component: main
+Origin: legendary-telegram
+Label: legendary-telegram
+Architecture: amd64
+Description: Ubuntu repository for unofficial packages

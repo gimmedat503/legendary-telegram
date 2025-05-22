@@ -1,0 +1,20 @@
+Origin: legendary-telegram
+Label: legendary-telegram
+Suite: noble
+Codename: noble
+Date: Thu, 22 May 2025 12:54:20 UTC
+Architectures: amd64
+Components: main
+Description: Ubuntu repository for unofficial packages
+MD5Sum:
+ d2a1c41aec97ce2b827549300a70e25a 819 main/binary-amd64/Packages
+ 1af4f7ea1eb5d31e2a255ed64b05d091 536 main/binary-amd64/Packages.gz
+ 0700cae44a90338a5e11c9912a72013e 159 main/binary-amd64/Release
+SHA1:
+ 8fc1e1e981a128cdc38de56386de037fcdd83a49 819 main/binary-amd64/Packages
+ ca3cfd46951cbf136e04ccbc19f0366b44bd6480 536 main/binary-amd64/Packages.gz
+ 2d77b99a4efa2a8a94d47ddf305b7fbc56020ac9 159 main/binary-amd64/Release
+SHA256:
+ 333380f9ebc2ab6212efbe5cd101c74952e1d9516f3f4e6eb5c4032a867cd6ac 819 main/binary-amd64/Packages
+ 3197f1890da2fabaf5ef5f2252460929019462a0b3dfd88ecdc75b22da1cd455 536 main/binary-amd64/Packages.gz
+ e2bee1b21fe0a3d9246663e6d093a4e09e4e11a024297e2da2e7f5217cd745e8 159 main/binary-amd64/Release
