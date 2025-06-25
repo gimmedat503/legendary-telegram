@@ -5,35 +5,53 @@ Origin: legendary-telegram
 Label: legendary-telegram
 Suite: noble
 Codename: noble
-Date: Thu, 22 May 2025 12:54:20 UTC
+Date: Wed, 25 Jun 2025 17:07:39 UTC
 Architectures: amd64
-Components: main
+Components: main contrib
 Description: Ubuntu repository for unofficial packages
 MD5Sum:
  d2a1c41aec97ce2b827549300a70e25a 819 main/binary-amd64/Packages
  1af4f7ea1eb5d31e2a255ed64b05d091 536 main/binary-amd64/Packages.gz
  0700cae44a90338a5e11c9912a72013e 159 main/binary-amd64/Release
+ 2288b306bcb011046d9e4158034609d9 2377 main/source/Sources
+ 00077c440157b61601579ecd4444ea2c 943 main/source/Sources.gz
+ be3a6c9e458cfc0cfca85728c1dd50e3 160 main/source/Release
+ 6a2f37dec04df1705a29231f27d660ea 12191 contrib/binary-amd64/Packages
+ 4122cbd07e40caca596e5265c968b20d 2669 contrib/binary-amd64/Packages.gz
+ ca8a59163f7f9ce35cc1e3528a237eee 162 contrib/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 contrib/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 contrib/source/Sources.gz
+ 627bedd66ed0383fff0436d76e095b00 163 contrib/source/Release
 SHA1:
  8fc1e1e981a128cdc38de56386de037fcdd83a49 819 main/binary-amd64/Packages
  ca3cfd46951cbf136e04ccbc19f0366b44bd6480 536 main/binary-amd64/Packages.gz
  2d77b99a4efa2a8a94d47ddf305b7fbc56020ac9 159 main/binary-amd64/Release
+ 9904c14926fb880e3d41f9f3dc51cd87779af8a1 2377 main/source/Sources
+ 8e0babfd10d82dd371f6061da48e140c03577274 943 main/source/Sources.gz
+ 59be34f233daca815af0bb4b855c7ac847fa5008 160 main/source/Release
+ 68a9992625c60fb36ac2fca9026f01ddf7e57d90 12191 contrib/binary-amd64/Packages
+ f3fd91cd82158a9ddf0aa16844882c33c51045ad 2669 contrib/binary-amd64/Packages.gz
+ 8def951f9094498b62fb8478f4929ce6f9b41516 162 contrib/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 contrib/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 contrib/source/Sources.gz
+ 02cb4b9606a04c651fb7593511ab76ace3c9aa0f 163 contrib/source/Release
 SHA256:
  333380f9ebc2ab6212efbe5cd101c74952e1d9516f3f4e6eb5c4032a867cd6ac 819 main/binary-amd64/Packages
  3197f1890da2fabaf5ef5f2252460929019462a0b3dfd88ecdc75b22da1cd455 536 main/binary-amd64/Packages.gz
  e2bee1b21fe0a3d9246663e6d093a4e09e4e11a024297e2da2e7f5217cd745e8 159 main/binary-amd64/Release
+ e315c2ac1447b4c6ee900f16b07dc581fc26be2cc2945d6c41705a8197b04138 2377 main/source/Sources
+ 31b46c7b1a90d088c57748900aaac3563af6dcc93dbfbe6f1f77e7ee22afc8a7 943 main/source/Sources.gz
+ bd1535aec2c7cac64662487a9bf4ddfced48fa3c6b52d706e085a9694862a2ae 160 main/source/Release
+ 4d4e1b53ca6be89ea08121c50873ef4455d9a59b22542e0050472040d260aac5 12191 contrib/binary-amd64/Packages
+ b27c40d26f83fe7c200af1315716bc6f0ad07f34123fb61eb7bfbb89920690f1 2669 contrib/binary-amd64/Packages.gz
+ e1863e6239bdf6602daa42d185e1e82f99aabb6b5c30debc18a09d3e28d6ebb5 162 contrib/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 contrib/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 contrib/source/Sources.gz
+ 94706aa1afc28017f640e4322fa51b04bb6064a5ea2895df1bb1914645fb7c69 163 contrib/source/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEJCZmrfju3h7PO+VZyvZiIek2uscFAmgvHoAACgkQyvZiIek2
-usfb5BAAiAXaki8ATIey4Bp7jo+1qRwrMKjWWVlSR9tUJKnvh0qFu0YTjUoRPHYo
-+nrKS/xhDZeebMddy8yrjE2cubI4GDu8XzJQAR5o0ghvBmWZCDpSjtWSTfhk3b9p
-IxVH/g+OoBP6xJK4L7zqcBdW/cGZ8mJ7DY3KTyOTcYH1KVq6VdqXn38/wkE95YYj
-T13OcmgmPYGzkRmVOLjPzWdbLbLcY4ntKMWu6eCm570dEfCxVDdTtm1Ck6tEfA+x
-klkzt0PF5TH6P8UYuVXQIoT9NF1fjDJs99nN0C4GK98JoqQH/sHxV5fWWXrvtwWK
-mkTcy3TwhXPVxSb2L9kJXIkDHuT1V4K9+KP9FIqiF9s9OOc6AI4P2wqECRbo6KaS
-UNbjYItIIcG+Y+LKu/1ixK1G443+DogR0FJlK52uqsJGxDHrd2ShbLJOjn/OSDfA
-UPLWCaeGA0eenR9qzafYNPhtUDND9QJxDYvdv3PCzu1gpicFFWI8Ig+gtaygO1LX
-a3KzeJDW/B2pWXM6QsSCYbPyj3pFWNJrBl3NH6JT0ElB/Ka330FciN5XsxgMegl1
-D66lAkNva8B7GHcnYRorliRt51oCdkImpRCIMiH38DwSfTOuJ3TNSKFgwyCCzdyO
-+1uTldkEjY5aKh2GexW3+Kd4wvc9y2aUEeAcDvUFi7tixLsW7Aw=
-=kbym
+iHUEARYKAB0WIQRPke24npZ27JDubKevAbc7dG0BbgUCaFws2wAKCRCvAbc7dG0B
+bpugAQClU/O3230bKapVX4hIPPPqfdIKVFMD1tDBlyJDNsqeDAEA+FQ/xc1NKr9T
+HMW1aDmKNZscE4lgApyDQJ503L2yWQE=
+=v1Xe
 -----END PGP SIGNATURE-----

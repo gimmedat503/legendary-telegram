@@ -2,7 +2,7 @@ Origin: legendary-telegram
 Label: legendary-telegram
 Suite: noble
 Codename: noble
-Architectures: amd64
-Components: main
+Architectures: amd64 source
+Components: main contrib
 Description: Ubuntu repository for unofficial packages
 SignWith: yes
