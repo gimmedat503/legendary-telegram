@@ -5,53 +5,53 @@ Origin: legendary-telegram
 Label: legendary-telegram
 Suite: noble
 Codename: noble
-Date: Wed, 25 Jun 2025 17:07:39 UTC
+Date: Thu, 26 Jun 2025 14:14:07 UTC
 Architectures: amd64
 Components: main contrib
 Description: Ubuntu repository for unofficial packages
 MD5Sum:
- d2a1c41aec97ce2b827549300a70e25a 819 main/binary-amd64/Packages
- 1af4f7ea1eb5d31e2a255ed64b05d091 536 main/binary-amd64/Packages.gz
+ f957db528a5d0e2180108645c635fe31 3726 main/binary-amd64/Packages
+ fa6f5a9677c3678cc28a2b91551846a2 1446 main/binary-amd64/Packages.gz
  0700cae44a90338a5e11c9912a72013e 159 main/binary-amd64/Release
- 2288b306bcb011046d9e4158034609d9 2377 main/source/Sources
- 00077c440157b61601579ecd4444ea2c 943 main/source/Sources.gz
+ 7d56799eb286d8c33160cb326a3dca2c 2377 main/source/Sources
+ 6419b9c362f3d3aeae1969533f13a82f 944 main/source/Sources.gz
  be3a6c9e458cfc0cfca85728c1dd50e3 160 main/source/Release
- 6a2f37dec04df1705a29231f27d660ea 12191 contrib/binary-amd64/Packages
- 4122cbd07e40caca596e5265c968b20d 2669 contrib/binary-amd64/Packages.gz
+ a9ff71ea1f8a63d65936ff86f3c422f8 12191 contrib/binary-amd64/Packages
+ aa39618a55f6eb27ea824a01a9b98ec4 2662 contrib/binary-amd64/Packages.gz
  ca8a59163f7f9ce35cc1e3528a237eee 162 contrib/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 contrib/source/Sources
  7029066c27ac6f5ef18d660d5741979a 20 contrib/source/Sources.gz
  627bedd66ed0383fff0436d76e095b00 163 contrib/source/Release
 SHA1:
- 8fc1e1e981a128cdc38de56386de037fcdd83a49 819 main/binary-amd64/Packages
- ca3cfd46951cbf136e04ccbc19f0366b44bd6480 536 main/binary-amd64/Packages.gz
+ 7dbd569c801b14aaa04d14f94dd6860248ba1dea 3726 main/binary-amd64/Packages
+ f9ed7d184deabf553525a3f80aa5a906f56b889d 1446 main/binary-amd64/Packages.gz
  2d77b99a4efa2a8a94d47ddf305b7fbc56020ac9 159 main/binary-amd64/Release
- 9904c14926fb880e3d41f9f3dc51cd87779af8a1 2377 main/source/Sources
- 8e0babfd10d82dd371f6061da48e140c03577274 943 main/source/Sources.gz
+ aff51253a18accf1858cf46000065e73296cd46c 2377 main/source/Sources
+ a84f9a88f7b11b73a5aaa0e5efbc1008b92838a6 944 main/source/Sources.gz
  59be34f233daca815af0bb4b855c7ac847fa5008 160 main/source/Release
- 68a9992625c60fb36ac2fca9026f01ddf7e57d90 12191 contrib/binary-amd64/Packages
- f3fd91cd82158a9ddf0aa16844882c33c51045ad 2669 contrib/binary-amd64/Packages.gz
+ e9177e7d06bb810b79bce01a6bc6496b5bc2440e 12191 contrib/binary-amd64/Packages
+ 2d72bef4782528462bacfe48a0428c23edf29935 2662 contrib/binary-amd64/Packages.gz
  8def951f9094498b62fb8478f4929ce6f9b41516 162 contrib/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 contrib/source/Sources
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 contrib/source/Sources.gz
  02cb4b9606a04c651fb7593511ab76ace3c9aa0f 163 contrib/source/Release
 SHA256:
- 333380f9ebc2ab6212efbe5cd101c74952e1d9516f3f4e6eb5c4032a867cd6ac 819 main/binary-amd64/Packages
- 3197f1890da2fabaf5ef5f2252460929019462a0b3dfd88ecdc75b22da1cd455 536 main/binary-amd64/Packages.gz
+ 803b524e83588e264b69926895c809565ac054c8cd537f3f315e624abede026b 3726 main/binary-amd64/Packages
+ 59f417f491adab2cea58e5b47ff281022d589dcca4630f30471f3c77801bd7d2 1446 main/binary-amd64/Packages.gz
  e2bee1b21fe0a3d9246663e6d093a4e09e4e11a024297e2da2e7f5217cd745e8 159 main/binary-amd64/Release
- e315c2ac1447b4c6ee900f16b07dc581fc26be2cc2945d6c41705a8197b04138 2377 main/source/Sources
- 31b46c7b1a90d088c57748900aaac3563af6dcc93dbfbe6f1f77e7ee22afc8a7 943 main/source/Sources.gz
+ b24d4cd7dc23e8d29c574d11810691d7fe1b11473d4b05639cee89f44029f1d3 2377 main/source/Sources
+ b13de46e4af5d652cc7910768a4a376cc49d47fa135811eac56c0c8e40528d67 944 main/source/Sources.gz
  bd1535aec2c7cac64662487a9bf4ddfced48fa3c6b52d706e085a9694862a2ae 160 main/source/Release
- 4d4e1b53ca6be89ea08121c50873ef4455d9a59b22542e0050472040d260aac5 12191 contrib/binary-amd64/Packages
- b27c40d26f83fe7c200af1315716bc6f0ad07f34123fb61eb7bfbb89920690f1 2669 contrib/binary-amd64/Packages.gz
+ 74094785853e881f93d0bdfa8c68cc8d0f72117bd478ab29f6f9260e7b10ce49 12191 contrib/binary-amd64/Packages
+ c1cdb4d8cbc0438231c2e279c0d05afd612ad765a4a82bda0ef24a442fe516a0 2662 contrib/binary-amd64/Packages.gz
  e1863e6239bdf6602daa42d185e1e82f99aabb6b5c30debc18a09d3e28d6ebb5 162 contrib/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 contrib/source/Sources
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 contrib/source/Sources.gz
  94706aa1afc28017f640e4322fa51b04bb6064a5ea2895df1bb1914645fb7c69 163 contrib/source/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQRPke24npZ27JDubKevAbc7dG0BbgUCaFws2wAKCRCvAbc7dG0B
-bpugAQClU/O3230bKapVX4hIPPPqfdIKVFMD1tDBlyJDNsqeDAEA+FQ/xc1NKr9T
-HMW1aDmKNZscE4lgApyDQJ503L2yWQE=
-=v1Xe
+iHUEARYKAB0WIQRPke24npZ27JDubKevAbc7dG0BbgUCaF1VrwAKCRCvAbc7dG0B
+bnMPAP9sgAGIQjvbYaPk1hU2pO860cHPs1wyFe5cq3gyp/cWpAD/UNB0ZaXXO4tA
+N0pMi+GjsyPBuDnZJNFgeFHS97mBiQM=
+=Vjqi
 -----END PGP SIGNATURE-----
